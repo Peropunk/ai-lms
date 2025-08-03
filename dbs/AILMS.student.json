@@ -1,0 +1,30 @@
+[{
+  "_id": "student_001",
+  "email": "student1@school.com",
+  "password": "student123",
+  "name": "Alice Brown",
+  "role": "student",
+  "grade": "10th",
+  "parent_email": "parent1@email.com",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  },
+  "updated_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+},
+{
+  "_id": "student_002",
+  "email": "alan12@gmail.com",
+  "password": "12345678",
+  "name": "Alan Wilson",
+  "role": "student",
+  "grade": "11th",
+  "parent_email": "parent2@email.com",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  },
+  "updated_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+}]

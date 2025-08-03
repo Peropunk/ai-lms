@@ -1,0 +1,15 @@
+[{
+  "_id": "staff_001",
+  "email": "staff1@school.com",
+  "password": "staff123",
+  "name": "Mike Davis",
+  "role": "staff",
+  "department": "IT",
+  "phone": "+1234567892",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  },
+  "updated_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+}]

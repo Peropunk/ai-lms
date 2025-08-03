@@ -1,0 +1,30 @@
+[{
+  "_id": "teacher_001",
+  "email": "teacher1@school.com",
+  "password": "teacher123",
+  "name": "John Smith",
+  "role": "teacher",
+  "subject": "Mathematics",
+  "phone": "+1234567890",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  },
+  "updated_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+},
+{
+  "_id": "teacher_002",
+  "email": "teacher2@school.com",
+  "password": "teacher456",
+  "name": "Sarah Johnson",
+  "role": "teacher",
+  "subject": "English",
+  "phone": "+1234567891",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  },
+  "updated_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": "admin_001",
+  "email": "admin@school.com",
+  "password": "admin123",
+  "name": "School Administrator",
+  "role": "admin",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  },
+  "updated_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+},
+{
+  "_id": "admin_002",
+  "email": "parve123@gmail.com",
+  "password": "12345678",
+  "name": "Parve Admin",
+  "role": "admin",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  },
+  "updated_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+}]

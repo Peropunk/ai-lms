@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "688f3b04320990aadfc283dd"
+  },
+  "id": 1,
+  "name": "9th Grade",
+  "description": "Ninth Grade",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688f3b04320990aadfc283de"
+  },
+  "id": 2,
+  "name": "10th Grade",
+  "description": "Tenth Grade",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688f3b04320990aadfc283df"
+  },
+  "id": 3,
+  "name": "11th Grade",
+  "description": "Eleventh Grade",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688f3b04320990aadfc283e0"
+  },
+  "id": 4,
+  "name": "12th Grade",
+  "description": "Twelfth Grade",
+  "created_at": {
+    "$date": "2025-08-03T10:33:40.376Z"
+  }
+}]
